@@ -339,14 +339,6 @@
       <change beforePath="$PROJECT_DIR$/../ForTest/test11/03coverage_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/../ForTest/test11/03coverage_test.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ForTest/test11/04monitor.go" beforeDir="false" afterPath="$PROJECT_DIR$/../ForTest/test11/04monitor.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ForTest/validatorTest/backup.go" beforeDir="false" afterPath="$PROJECT_DIR$/../ForTest/validatorTest/backup.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2-etcd-go-client/example_kv_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/2-etcd-go-client/example_kv_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2-etcd-go-client/example_lease_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/2-etcd-go-client/example_lease_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2-etcd-go-client/example_maintenence_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/2-etcd-go-client/example_maintenence_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2-etcd-go-client/example_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/2-etcd-go-client/example_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2-etcd-go-client/example_watch_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/2-etcd-go-client/example_watch_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3-etcd-service-discovery/register/register.go" beforeDir="false" afterPath="$PROJECT_DIR$/3-etcd-service-discovery/register/register.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4-etcd-grpclb/server/server.go" beforeDir="false" afterPath="$PROJECT_DIR$/4-etcd-grpclb/server/server.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5-etcd-grpclb-balancer/server/server.go" beforeDir="false" afterPath="$PROJECT_DIR$/5-etcd-grpclb-balancer/server/server.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../github.com/shopspring/decimal/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../github.com/shopspring/decimal/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../github.com/shopspring/decimal/decimal-go.go" beforeDir="false" afterPath="$PROJECT_DIR$/../github.com/shopspring/decimal/decimal-go.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../trading-system" beforeDir="false" afterPath="$PROJECT_DIR$/../trading-system" afterDir="false" />
@@ -518,60 +510,13 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="etcd-example" type="b2602c69:ProjectViewProjectNode" />
-              <item name="etcd-example" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="etcd-example" type="b2602c69:ProjectViewProjectNode" />
-              <item name="etcd-example" type="462c0819:PsiDirectoryNode" />
-              <item name="1-etcd环境安装与使用" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="etcd-example" type="b2602c69:ProjectViewProjectNode" />
-              <item name="etcd-example" type="462c0819:PsiDirectoryNode" />
-              <item name="2-etcd-go-client" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="etcd-example" type="b2602c69:ProjectViewProjectNode" />
-              <item name="etcd-example" type="462c0819:PsiDirectoryNode" />
-              <item name="3-etcd-service-discovery" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="etcd-example" type="b2602c69:ProjectViewProjectNode" />
-              <item name="etcd-example" type="462c0819:PsiDirectoryNode" />
-              <item name="3-etcd-service-discovery" type="462c0819:PsiDirectoryNode" />
-              <item name="discovery" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="etcd-example" type="b2602c69:ProjectViewProjectNode" />
-              <item name="etcd-example" type="462c0819:PsiDirectoryNode" />
-              <item name="3-etcd-service-discovery" type="462c0819:PsiDirectoryNode" />
-              <item name="register" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="etcd-example" type="b2602c69:ProjectViewProjectNode" />
-              <item name="etcd-example" type="462c0819:PsiDirectoryNode" />
-              <item name="4-etcd-grpclb" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="etcd-example" type="b2602c69:ProjectViewProjectNode" />
-              <item name="etcd-example" type="462c0819:PsiDirectoryNode" />
-              <item name="4-etcd-grpclb" type="462c0819:PsiDirectoryNode" />
-              <item name="server" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="Scope" />
+      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="go.gopath.indexing.explicitly.defined" value="true" />
     <property name="go.import.settings.migrated" value="true" />
@@ -703,7 +648,7 @@
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24606581" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24964234" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
