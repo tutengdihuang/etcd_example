@@ -18,12 +18,13 @@ import (
 	"context"
 	"fmt"
 	"log"
+	"testing"
 
 	"github.com/coreos/etcd/clientv3"
 	"github.com/coreos/etcd/etcdserver/api/v3rpc/rpctypes"
 )
 
-func ExampleKV_put() {
+func TestExampleKV_put(t *testing.T) {
 	cli, err := clientv3.New(clientv3.Config{
 		Endpoints:   endpoints,
 		DialTimeout: dialTimeout,
@@ -215,6 +216,8 @@ func ExampleKV_compact() {
 	if err != nil {
 		log.Fatal(err)
 	}
+	//Output:
+	//
 }
 
 func ExampleKV_txn() {
@@ -279,4 +282,6 @@ func ExampleKV_do() {
 			log.Fatal(err)
 		}
 	}
+	//Output:
+	//
 }

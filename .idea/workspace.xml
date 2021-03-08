@@ -1,0 +1,1216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b11016d0-c30e-46bf-b1ac-b83ad669d92c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../ForTest/.idea/ForTest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/07panic_test/panic_in_goroutine.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/08flag/flag02.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/08flag/flag_test_flag.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/09nettest/01IPaddress.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/10shelltest/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/10shelltest/start.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/11locktest/lock_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/12configAnnotation/resource/account.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/12configAnnotation/resource/backup.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/12configAnnotation/resource/bridge.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/12configAnnotation/resource/chart.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/12configAnnotation/resource/common.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/12configAnnotation/resource/crontab.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/12configAnnotation/resource/event.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/12configAnnotation/resource/gateway.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/12configAnnotation/resource/grpc.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/12configAnnotation/resource/log.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/12configAnnotation/resource/order.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/12configAnnotation/resource/price.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/12configAnnotation/resource/report.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/12configAnnotation/resource/sentry.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/12configAnnotation/resource/symbol.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/12configAnnotation/resource/tracer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/12configAnnotation/resource/trade.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/13init/import_test/test1.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/13init/inittest.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/14swap_file/crontab_3daysSwap_GBP_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/14swap_file/crontab_3daysSwap_USD_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/14swap_file/crontab_swapGBP_test_result.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/14swap_file/crontab_swap_GBP_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/14swap_file/crontab_swap_USD_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/14swap_file/crontab_swap_test_result.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/14swap_file/double_leg_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/14swap_file/larger_leg_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/15cross_test/cross_test/cross_test_tools.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/15cross_test/cross_test/request_args.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/15cross_test/cross_type_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/16tick_able/tick_session.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/16tick_able/tickable.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/16tick_able/tickable_common.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/17invite_code/invide_code_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/17invite_code/invite_code.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/18goolewire/wire.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/18goolewire/wire_gen.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/18goolewire/wire_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/19erroGroup/erro_group.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/20directory/Price.1.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/20directory/Price.2.Struct.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/20directory/Price.3.Chart.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/apiproxy/account.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/apiproxy/cache.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/apiproxy/equity_cfd.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/apiproxy/etc_only.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/apiproxy/group.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/apiproxy/proto/apiproxy.pb.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/apiproxy/proto/apiproxy.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/apiproxy/proto/command_line" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/apiproxy/proto/order.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/apiproxy/server.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/apiproxy/source.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/apiproxy/trade.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/capacity_test_tools.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/common/account.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/common/cache.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/common/equity_cfd.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/common/etc_only.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/common/group.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/common/proto/apiproxy.pb.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/common/proto/apiproxy.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/common/proto/command_line" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/common/proto/order.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/common/server.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/common/source.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/common/trade.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/cpacity_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/cross_type__zmq_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/cross_type_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/decimal/decimal.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/decimal/errcode.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/decimal/errname.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/decimal/errors.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/decimal/errors/bench_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/decimal/errors/errors.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/decimal/errors/errors_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/decimal/errors/example_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/decimal/errors/format_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/decimal/errors/group.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/decimal/errors/juju_adaptor.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/decimal/errors/stack.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/decimal/errors/stack_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/decimal/helper.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/decimal/terror/terror.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/decimal/utils_decimal.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/goconvey/goconvey_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/mock_service.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/pd_delete.new.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/pd_expiration_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/pd_modify.new.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/pd_modify_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/resource_dev/resource/account.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/resource_dev/resource/backup.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/resource_dev/resource/bridge.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/resource_dev/resource/chart.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/resource_dev/resource/common.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/resource_dev/resource/crontab.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/resource_dev/resource/event.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/resource_dev/resource/gateway.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/resource_dev/resource/grpc.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/resource_dev/resource/log.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/resource_dev/resource/order.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/resource_dev/resource/price.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/resource_dev/resource/report.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/resource_dev/resource/sentry.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/resource_dev/resource/swap.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/resource_dev/resource/symbol.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/resource_dev/resource/tracer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/resource_dev/resource/trade.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/sl_tp_mkclose_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/stringReplace/replace.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/stringReplace/source" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/stringReplace/to" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/testbasic/funcNameReturn.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/testbasic/gc_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/testbasic/sync_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/trading-core/benchmark/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/trading-core/intergration/crontab_reportDaily_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/trading-core/intergration/expected_result/cal_sltp_test_result.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/trading-core/intergration/expected_result/cal_so_test_result.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/trading-core/intergration/expected_result/crontab_reportDaily_test_result.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/trading-core/intergration/expected_result/crontab_swapGBP_test_result.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/trading-core/intergration/expected_result/crontab_swap_test_result.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/trading-core/intergration/expected_result/mk_close_test_result.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/trading-core/intergration/expected_result/mk_doubleleg_test_result.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/trading-core/intergration/expected_result/mk_largerleg_test_result.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/trading-core/intergration/expected_result/mk_modify_test_result.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/trading-core/intergration/expected_result/mk_open_test_result.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/trading-core/intergration/expected_result/pay_deposit.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/trading-core/intergration/expected_result/pay_withdraw.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/trading-core/intergration/expected_result/pd_activate_test_result.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/trading-core/intergration/expected_result/pd_create_valid.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/trading-core/intergration/expected_result/pd_delete_test_result.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/trading-core/intergration/expected_result/pd_expiration_test_result.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/trading-core/intergration/log/ACCOUNT.log.20200713" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/trading-core/intergration/log/ACCOUNT.log.20200715" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/trading-core/intergration/log/ACCOUNT.log.20200717" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/trading-core/intergration/log/ACCOUNT.log.20200720" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/trading-core/intergration/log/BRIDGE.log.20200717" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/trading-core/intergration/log/BRIDGE.log.20200720" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/trading-core/intergration/log/CALC.log.20200407" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/trading-core/intergration/log/CALC.log.20200408" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/trading-core/intergration/log/CALC.log.20200410" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/trading-core/intergration/log/CALC.log.20200413" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/trading-core/intergration/log/Constant_ErrorLog.log.20200713" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/trading-core/intergration/log/Constant_ErrorLog.log.20200715" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/trading-core/intergration/log/Constant_ErrorLog.log.20200717" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/trading-core/intergration/log/Constant_ErrorLog.log.20200720" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/trading-core/intergration/log/EVENT.log.20200713" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/trading-core/intergration/log/EVENT.log.20200717" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/trading-core/intergration/log/EVENT.log.20200720" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/trading-core/intergration/log/PRICE.log.20200717" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/trading-core/intergration/log/PRICE.log.20200720" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/trading-core/intergration/log/TRADE.log.20200713" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/trading-core/intergration/log/TRADE.log.20200715" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/trading-core/intergration/log/TRADE.log.20200717" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/trading-core/intergration/log/TRADE.log.20200720" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/trading-core/intergration/order_delet_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/trading-core/intergration/request_args/mk_close_requestargs.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/trading-core/intergration/request_args/mk_modify_test_requestargs.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/trading-core/intergration/request_args/mk_open_test_requestargs.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/trading-core/intergration/request_args/pay_deposit.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/trading-core/intergration/request_args/pay_withdraw.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/trading-core/intergration/request_args/pd_create_expiration_invalid.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/trading-core/intergration/request_args/pd_create_pendingprice_invalid.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/trading-core/intergration/request_args/pd_create_sltp_invalid.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/trading-core/intergration/request_args/pd_create_valid.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/trading-core/intergration/request_args/pd_delete_test_requestargs.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/trading-core/intergration/request_args/pd_modify.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/trading-core/intergration/utils_test/utils.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/trading-core/intergration/validator/validator.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/trading-core/log/ACCOUNT.log.20200622" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/trading-core/log/BENCHMARK_LOG.log.20200622" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/trading-core/log/BRIDGE.log.20200717" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/trading-core/log/BRIDGE.log.20200720" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/trading-core/log/CALC.log.20200622" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/trading-core/log/CHART.log.20200717" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/trading-core/log/CHART.log.20200720" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/trading-core/log/CRONTAB.log.20200711" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/trading-core/log/CRONTAB.log.20200712" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/trading-core/log/CRONTAB.log.20200713" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/trading-core/log/Constant_ErrorLog.log.20200717" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/trading-core/log/Constant_ErrorLog.log.20200720" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/trading-core/log/EVENT.log.20200717" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/trading-core/log/EVENT.log.20200720" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/trading-core/log/GRPC.log.20200717" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/trading-core/log/GRPC.log.20200720" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/trading-core/log/GRPCZMQLag.log.20200602" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/trading-core/log/ORDER.log.20200622" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/trading-core/log/PRICE.log.20200717" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/trading-core/log/PRICE.log.20200720" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/trading-core/log/TRADE.log.20200717" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/trading-core/log/TRADE.log.20200720" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/trading-core/log/Test_symbol_order_user_statistics.log.20200602" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/trading-core/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/trading-core/mock/account/acc_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/trading-core/mock/account/account.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/trading-core/mock/account/actlist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/trading-core/mock/account/mock_service.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/trading-core/mock/account/repository/mock_repository.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/trading-core/mock/mock.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/trading-core/mock/price/bridge/mock_bridge.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/trading-core/mock/price/mock_service.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/trading-core/mock/symbol/mock_service.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/trading-core/mock/trade/mk/mock_service.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/trading-core/mock/trade/pay/mock_service.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/trading-core/mock/trade/pd/mock_service.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/trading-core/monkey/log/BRIDGE.log.20200509" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/trading-core/monkey/log/Constant_ErrorLog.log.20200509" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/trading-core/monkey/monkey.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/trading-core/monkey/monkey_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/zeromq/dealer-rep/dealer1/dealer1.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/zeromq/dealer-rep/dealer1/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/zeromq/dealer-rep/dealer2/dealer2.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/zeromq/dealer-rep/dealer2/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/zeromq/dealer-rep/rep/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/zeromq/dealer-rep/rep/rep.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/zeromq/loadbalance/dealer-router/dealer-router.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/zeromq/loadbalance/dealer-router/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/zeromq/loadbalance/req-router/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/zeromq/loadbalance/req-router/req-router.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/zeromq/loadbalance/router-router/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/zeromq/loadbalance/router-router/router-router.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/zeromq/pd_delete.new.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/zeromq/pub-sub/envelope/pub/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/zeromq/pub-sub/envelope/pub/pub.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/zeromq/pub-sub/envelope/sub/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/zeromq/pub-sub/envelope/sub/sub.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/zeromq/pub-sub/pub/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/zeromq/pub-sub/pub/pub.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/zeromq/pub-sub/sub1/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/zeromq/pub-sub/sub1/sub1.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/zeromq/pub-sub/sub2/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/zeromq/pub-sub/sub2/sub2.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/zeromq/push-pull/tasksink/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/zeromq/push-pull/tasksink/tasksink.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/zeromq/push-pull/taskvent/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/zeromq/push-pull/taskvent/taskvent.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/zeromq/push-pull/worker1/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/zeromq/push-pull/worker1/worker1.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/zeromq/push-pull/worker2/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/zeromq/push-pull/worker2/worker2.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/zeromq/req-rep/client/client.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/zeromq/req-rep/client/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/zeromq/req-rep/server/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/zeromq/req-rep/server/server.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/zeromq/req-router/req1/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/zeromq/req-router/req1/req1.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/zeromq/req-router/req2/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/zeromq/req-router/req2/req2.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/zeromq/req-router/router/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/zeromq/req-router/router/router.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/zeromq/router-dealer/broker/broker.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/zeromq/router-dealer/broker/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/zeromq/router-dealer/broker_proxy/broker_proxy.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/zeromq/router-dealer/broker_proxy/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/zeromq/router-dealer/rep1/rep1.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/zeromq/router-dealer/rep1/router_dealer_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/zeromq/router-dealer/rep2/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/zeromq/router-dealer/rep2/rep2.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/zeromq/router-dealer/req1/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/zeromq/router-dealer/req1/req1.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/zeromq/router-dealer/req2/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForTest/zeromq/router-dealer/req2/req2.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../grpc_test/command_line" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../grpc_test/helloworld/client/client.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../grpc_test/helloworld/proto/helloworld.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../promethus_client_golang/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../promethus_client_golang/simple.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../quantization/calc/server.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../quantization/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ForTest/02 stringTestCompare/01stringCompare.go" beforeDir="false" afterPath="$PROJECT_DIR$/../ForTest/02 stringTestCompare/01stringCompare.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ForTest/04TS_test/03testPrice.go" beforeDir="false" afterPath="$PROJECT_DIR$/../ForTest/04TS_test/03testPrice.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ForTest/04TS_test/profit_monitor_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/../ForTest/04TS_test/profit_monitor_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ForTest/05gonote/02分配.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ForTest/05gonote/test.go" beforeDir="false" afterPath="$PROJECT_DIR$/../ForTest/05gonote/test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ForTest/05map定义和使用.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ForTest/06binlogtest/binlog.go" beforeDir="false" afterPath="$PROJECT_DIR$/../ForTest/06binlogtest/binlog.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ForTest/06binlogtest/canalexample.go" beforeDir="false" afterPath="$PROJECT_DIR$/../ForTest/06binlogtest/canalexample.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ForTest/06binlogtest/mysql-bin.001579" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ForTest/compiration/dev.json" beforeDir="false" afterPath="$PROJECT_DIR$/../ForTest/compiration/dev.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ForTest/compiration/mt4.json" beforeDir="false" afterPath="$PROJECT_DIR$/../ForTest/compiration/mt4.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ForTest/cpTest/08.cp_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/../ForTest/cpTest/08.cp_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ForTest/dockerPractice/docker 学习" beforeDir="false" afterPath="$PROJECT_DIR$/../ForTest/dockerPractice/docker 学习" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ForTest/dockerPractice/dockerFile格式" beforeDir="false" afterPath="$PROJECT_DIR$/../ForTest/dockerPractice/dockerFile格式" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ForTest/dockerPractice/installUnbutu/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/../ForTest/dockerPractice/installUnbutu/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ForTest/go-performane-tuning/3.性能测量和分析/examples/words/main2.go" beforeDir="false" afterPath="$PROJECT_DIR$/../ForTest/go-performane-tuning/3.性能测量和分析/examples/words/main2.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ForTest/intergration/cal_profit_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/../ForTest/trading-core/intergration/cal_profit_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ForTest/intergration/cal_sltp_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/../ForTest/trading-core/intergration/cal_sltp_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ForTest/intergration/cal_so_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/../ForTest/trading-core/intergration/cal_so_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ForTest/intergration/crontab_3daysSwap_GBP_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/../ForTest/trading-core/intergration/crontab_3daysSwap_GBP_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ForTest/intergration/crontab_3daysSwap_USD_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/../ForTest/trading-core/intergration/crontab_3daysSwap_USD_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ForTest/intergration/crontab_reportDaily_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/../ForTest/14swap_file/crontab_reportDaily_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ForTest/intergration/crontab_swap_GBP_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/../ForTest/trading-core/intergration/crontab_swap_GBP_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ForTest/intergration/crontab_swap_USD_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/../ForTest/trading-core/intergration/crontab_swap_USD_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ForTest/intergration/double_leg_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/../ForTest/trading-core/intergration/double_leg_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ForTest/intergration/larger_leg_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/../ForTest/trading-core/intergration/larger_leg_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ForTest/intergration/mk_close_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/../ForTest/trading-core/intergration/mk_close_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ForTest/intergration/mk_modify_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/../ForTest/trading-core/intergration/mk_modify_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ForTest/intergration/mk_open_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/../ForTest/trading-core/intergration/mk_open_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ForTest/intergration/pay_deposit_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/../ForTest/trading-core/intergration/pay_deposit_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ForTest/intergration/pay_withdraw_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/../ForTest/trading-core/intergration/pay_withdraw_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ForTest/intergration/pd_active_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/../ForTest/trading-core/intergration/pd_activate_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ForTest/intergration/pd_create_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/../ForTest/trading-core/intergration/pd_create_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ForTest/intergration/pd_delete_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/../ForTest/trading-core/intergration/pd_delete_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ForTest/intergration/pd_expiration_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/../ForTest/trading-core/intergration/pd_expiration_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ForTest/intergration/pd_modify_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/../ForTest/trading-core/intergration/pd_modify_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ForTest/intergration/validator/balance_cp.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ForTest/intergration/validator/mk_fullclose_cp.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ForTest/intergration/validator/mk_open_cp.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ForTest/intergration/validator/validator.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ForTest/jaeger_test/jaeger_demo.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ForTest/schema/account.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../ForTest/schema/account.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ForTest/schema/account_group.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../ForTest/schema/account_group.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ForTest/schema/con_group_sec.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../ForTest/schema/con_group_sec.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ForTest/schema/event.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../ForTest/schema/event.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ForTest/schema/report_daily.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../ForTest/schema/report_daily.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ForTest/schema/symbol.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../ForTest/schema/symbol.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ForTest/schema/trade_trans_result.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../ForTest/schema/trade_trans_result.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ForTest/select.go" beforeDir="false" afterPath="$PROJECT_DIR$/../ForTest/06binlogtest/onemethodToSync.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ForTest/test11/01bechmark_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/../ForTest/test11/01bechmark_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ForTest/test11/02memory_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/../ForTest/test11/02memory_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ForTest/test11/03coverage_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/../ForTest/test11/03coverage_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ForTest/test11/04monitor.go" beforeDir="false" afterPath="$PROJECT_DIR$/../ForTest/test11/04monitor.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ForTest/validatorTest/backup.go" beforeDir="false" afterPath="$PROJECT_DIR$/../ForTest/validatorTest/backup.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2-etcd-go-client/example_kv_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/2-etcd-go-client/example_kv_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2-etcd-go-client/example_lease_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/2-etcd-go-client/example_lease_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2-etcd-go-client/example_maintenence_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/2-etcd-go-client/example_maintenence_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2-etcd-go-client/example_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/2-etcd-go-client/example_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2-etcd-go-client/example_watch_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/2-etcd-go-client/example_watch_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3-etcd-service-discovery/register/register.go" beforeDir="false" afterPath="$PROJECT_DIR$/3-etcd-service-discovery/register/register.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4-etcd-grpclb/server/server.go" beforeDir="false" afterPath="$PROJECT_DIR$/4-etcd-grpclb/server/server.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5-etcd-grpclb-balancer/server/server.go" beforeDir="false" afterPath="$PROJECT_DIR$/5-etcd-grpclb-balancer/server/server.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../github.com/shopspring/decimal/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../github.com/shopspring/decimal/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../github.com/shopspring/decimal/decimal-go.go" beforeDir="false" afterPath="$PROJECT_DIR$/../github.com/shopspring/decimal/decimal-go.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../trading-system" beforeDir="false" afterPath="$PROJECT_DIR$/../trading-system" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/1-etcd环境安装与使用/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SECOND">
+              <first_editor relative-caret-position="7383">
+                <caret line="321" column="98" selection-start-line="321" selection-start-column="96" selection-end-line="321" selection-end-column="98" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/2-etcd-go-client/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SECOND">
+              <first_editor />
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/2-etcd-go-client/example_test.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="644">
+              <caret line="38" column="24" selection-start-line="38" selection-start-column="16" selection-end-line="38" selection-end-column="24" />
+              <folding>
+                <element signature="e#617#770#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/3-etcd-service-discovery/discovery/discovery.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2070">
+              <caret line="98" column="30" selection-start-line="98" selection-start-column="30" selection-end-line="98" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/3-etcd-service-discovery/register/register.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="460">
+              <caret line="26" column="19" selection-start-line="26" selection-start-column="19" selection-end-line="26" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/2-etcd-go-client/example_watch_test.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1610">
+              <caret line="76" column="48" selection-start-line="76" selection-start-column="44" selection-end-line="76" selection-end-column="48" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/4-etcd-grpclb/server/server.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="713">
+              <caret line="40" column="34" selection-start-line="40" selection-start-column="34" selection-end-line="40" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/4-etcd-grpclb/etcdv3/register.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="207">
+              <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SECOND">
+              <first_editor />
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/5-etcd-grpclb-balancer/etcdv3/discovery.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="28" column="34" selection-start-line="28" selection-start-column="25" selection-end-line="28" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>grpclb</find>
+      <find>schema</find>
+      <find>Network</find>
+      <find>端口</find>
+    </findStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/5-etcd-grpclb-balancer</dir>
+    </dirStrings>
+  </component>
+  <component name="GOROOT" path="/usr/local/Cellar/go/1.15.6/libexec" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/2-etcd-go-client/example_kv_test.go" />
+        <option value="$PROJECT_DIR$/2-etcd-go-client/example_lease_test.go" />
+        <option value="$PROJECT_DIR$/2-etcd-go-client/example_maintenence_test.go" />
+        <option value="$PROJECT_DIR$/2-etcd-go-client/example_test.go" />
+        <option value="$PROJECT_DIR$/2-etcd-go-client/example_watch_test.go" />
+        <option value="$PROJECT_DIR$/3-etcd-service-discovery/register/register.go" />
+        <option value="$PROJECT_DIR$/4-etcd-grpclb/server/server.go" />
+        <option value="$PROJECT_DIR$/4-etcd-grpclb/client/client.go" />
+        <option value="$PROJECT_DIR$/main.go" />
+        <option value="$PROJECT_DIR$/5-etcd-grpclb-balancer/server/server.go" />
+        <option value="$PROJECT_DIR$/5-etcd-grpclb-balancer/client/client.go" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/etcd-example.iml" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/misc.xml" />
+        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="etcd-example" type="b2602c69:ProjectViewProjectNode" />
+              <item name="etcd-example" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="etcd-example" type="b2602c69:ProjectViewProjectNode" />
+              <item name="etcd-example" type="462c0819:PsiDirectoryNode" />
+              <item name="1-etcd环境安装与使用" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="etcd-example" type="b2602c69:ProjectViewProjectNode" />
+              <item name="etcd-example" type="462c0819:PsiDirectoryNode" />
+              <item name="2-etcd-go-client" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="etcd-example" type="b2602c69:ProjectViewProjectNode" />
+              <item name="etcd-example" type="462c0819:PsiDirectoryNode" />
+              <item name="3-etcd-service-discovery" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="etcd-example" type="b2602c69:ProjectViewProjectNode" />
+              <item name="etcd-example" type="462c0819:PsiDirectoryNode" />
+              <item name="3-etcd-service-discovery" type="462c0819:PsiDirectoryNode" />
+              <item name="discovery" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="etcd-example" type="b2602c69:ProjectViewProjectNode" />
+              <item name="etcd-example" type="462c0819:PsiDirectoryNode" />
+              <item name="3-etcd-service-discovery" type="462c0819:PsiDirectoryNode" />
+              <item name="register" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="etcd-example" type="b2602c69:ProjectViewProjectNode" />
+              <item name="etcd-example" type="462c0819:PsiDirectoryNode" />
+              <item name="4-etcd-grpclb" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="etcd-example" type="b2602c69:ProjectViewProjectNode" />
+              <item name="etcd-example" type="462c0819:PsiDirectoryNode" />
+              <item name="4-etcd-grpclb" type="462c0819:PsiDirectoryNode" />
+              <item name="server" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.gopath.indexing.explicitly.defined" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="js.buildTools.grunt.grunt-cli.package" value="" />
+    <property name="js.buildTools.gulp.gulp_package_dir" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs.jest.jest_package" value="" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="go.vgo" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Go Build.go build client.go (1)">
+    <configuration name="go build client.go (1)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="etcd-example" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/5-etcd-grpclb-balancer/client/client.go" />
+      <package value="etcd-example" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build client.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="etcd-example" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/4-etcd-grpclb/client/client.go" />
+      <package value="etcd-example" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build discovery.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="etcd-example" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/3-etcd-service-discovery/discovery/discovery.go" />
+      <package value="etcd-example" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build register.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="etcd-example" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/3-etcd-service-discovery/register/register.go" />
+      <package value="etcd-example" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build server.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="etcd-example" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/4-etcd-grpclb/server/server.go" />
+      <package value="etcd-example" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="js.build_tools.grunt">
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build client.go (1)" />
+        <item itemvalue="Go Build.go build server.go" />
+        <item itemvalue="Go Build.go build client.go" />
+        <item itemvalue="Go Build.go build register.go" />
+        <item itemvalue="Go Build.go build discovery.go" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="ExampleClient_metrics_in_etcd-example_2-etcd-go-client - 2021.02.19 at 14h 40m 29s.xml">
+      <configuration name="ExampleClient_metrics in etcd-example/2-etcd-go-client" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="ExampleClient_metrics_in_etcd-example_2-etcd-go-client - 2021.02.19 at 14h 40m 41s.xml">
+      <configuration name="ExampleClient_metrics in etcd-example/2-etcd-go-client" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="ExampleClient_metrics_in_etcd-example_2-etcd-go-client - 2021.02.19 at 14h 40m 44s.xml">
+      <configuration name="ExampleClient_metrics in etcd-example/2-etcd-go-client" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="ExampleClient_metrics_in_etcd-example_2-etcd-go-client - 2021.02.19 at 14h 42m 22s.xml">
+      <configuration name="ExampleClient_metrics in etcd-example/2-etcd-go-client" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="Example_in_etcd-example_2-etcd-go-client - 2021.02.19 at 14h 42m 47s.xml">
+      <configuration name="Example in etcd-example/2-etcd-go-client" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="Example_in_etcd-example_2-etcd-go-client - 2021.02.19 at 14h 44m 29s.xml">
+      <configuration name="Example in etcd-example/2-etcd-go-client" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="ExampleConfig_withTLS_in_etcd-example_2-etcd-go-client - 2021.02.19 at 14h 45m 15s.xml">
+      <configuration name="ExampleConfig_withTLS in etcd-example/2-etcd-go-client" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="ExampleConfig_withTLS_in_etcd-example_2-etcd-go-client - 2021.02.19 at 14h 46m 19s.xml">
+      <configuration name="ExampleConfig_withTLS in etcd-example/2-etcd-go-client" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="ExampleWatcher_watch_in_etcd-example_2-etcd-go-client - 2021.02.19 at 14h 50m 00s.xml">
+      <configuration name="ExampleWatcher_watch in etcd-example/2-etcd-go-client" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="ExampleWatcher_watchWithRange_in_etcd-example_2-etcd-go-client - 2021.02.19 at 14h 53m 45s.xml">
+      <configuration name="ExampleWatcher_watchWithRange in etcd-example/2-etcd-go-client" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24606581" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.34819278" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.27710843" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/go/pkg/mod/github.com/coreos/etcd@v3.3.20+incompatible/clientv3/client.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="73" column="4" selection-start-line="73" selection-start-column="4" selection-end-line="73" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2-etcd-go-client/example_lease_test.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="141" column="5" lean-forward="true" selection-start-line="141" selection-start-column="5" selection-end-line="141" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2-etcd-go-client/example_cluster_test.go">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/go/pkg/mod/github.com/coreos/etcd@v3.3.20+incompatible/etcdserver/etcdserverpb/rpc.pb.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="355">
+          <caret line="4173" column="4" selection-start-line="4173" selection-start-column="4" selection-end-line="4173" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/go/pkg/mod/github.com/coreos/etcd@v3.3.20+incompatible/clientv3/maintenance.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="142">
+          <caret line="49" column="4" selection-start-line="49" selection-start-column="4" selection-end-line="49" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2-etcd-go-client/example_maintenence_test.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="346">
+          <caret line="59" column="26" lean-forward="true" selection-start-line="59" selection-start-column="26" selection-end-line="59" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/go/pkg/mod/github.com/prometheus/client_golang@v1.6.0/prometheus/promhttp/http.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="496">
+          <caret line="73" column="5" selection-start-line="73" selection-start-column="5" selection-end-line="73" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2-etcd-go-client/example_metrics_test.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="696">
+          <caret line="83" column="105" lean-forward="true" selection-start-line="83" selection-start-column="105" selection-end-line="83" selection-end-column="105" />
+          <folding>
+            <element signature="e#617#874#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/go/pkg/mod/google.golang.org/grpc@v1.26.0/grpclog/loggerv2.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="100" column="5" selection-start-line="100" selection-start-column="5" selection-end-line="100" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/go/pkg/mod/github.com/coreos/etcd@v3.3.20+incompatible/clientv3/logger.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="42" column="5" selection-start-line="42" selection-start-column="5" selection-end-line="42" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/go/pkg/mod/github.com/coreos/etcd@v3.3.20+incompatible/clientv3/watch.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="163">
+          <caret line="42" column="5" selection-start-line="42" selection-start-column="5" selection-end-line="42" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/go/pkg/mod/go.etcd.io/etcd@v3.3.20+incompatible/clientv3/client.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1045">
+          <caret line="71" column="5" selection-start-line="71" selection-start-column="5" selection-end-line="71" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/go/pkg/mod/go.etcd.io/etcd@v3.3.20+incompatible/clientv3/example_watch_test.go">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/go/pkg/mod/go.etcd.io/etcd@v3.3.20+incompatible/clientv3/txn_test.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/go/pkg/mod/go.etcd.io/etcd@v3.3.20+incompatible/clientv3/example_auth_test.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1210" />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/go/pkg/mod/go.etcd.io/etcd@v3.3.20+incompatible/clientv3/watch_test.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-787" />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/go/pkg/mod/go.etcd.io/etcd@v3.3.20+incompatible/clientv3/yaml/config.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-237" />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/go/pkg/mod/go.etcd.io/etcd@v3.3.20+incompatible/clientv3/options.go">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/go/pkg/mod/go.etcd.io/etcd@v3.3.20+incompatible/clientv3/lease.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="920">
+          <caret line="190" column="1" lean-forward="true" selection-start-line="190" selection-start-column="1" selection-end-line="190" selection-end-column="1" />
+          <folding>
+            <element signature="n#!!doc" />
+            <element signature="e#823#902#0" />
+            <element signature="e#997#1069#0" />
+            <element signature="e#1176#1230#0" />
+            <element signature="e#1340#1756#0" />
+            <element signature="e#1817#1871#0" />
+            <element signature="e#1969#2037#0" />
+            <element signature="e#2039#2400#0" />
+            <element signature="e#2048#2115#0" />
+            <element signature="e#2402#2479#0" />
+            <element signature="e#2567#2658#0" />
+            <element signature="e#2809#2833#0" />
+            <element signature="e#2878#2992#0" />
+            <element signature="e#2945#2980#0" />
+            <element signature="e#3005#4946#0" />
+            <element signature="e#3490#3565#0" />
+            <element signature="e#4445#4516#0" />
+            <element signature="e#4832#4903#0" />
+            <element signature="e#4960#5610#0" />
+            <element signature="e#5312#5383#0" />
+            <element signature="e#5699#6030#0" />
+            <element signature="e#6063#6153#0" />
+            <element signature="e#6256#6712#0" />
+            <element signature="e#6271#6452#0" />
+            <element signature="e#6496#6539#0" />
+            <element signature="e#6553#6583#0" />
+            <element signature="e#6798#7135#0" />
+            <element signature="e#6910#7104#0" />
+            <element signature="e#6942#7081#0" />
+            <element signature="e#7224#7421#0" />
+            <element signature="e#7343#7390#0" />
+            <element signature="e#7539#7927#0" />
+            <element signature="e#7662#7896#0" />
+            <element signature="e#7699#7873#0" />
+            <element signature="e#8004#8366#0" />
+            <element signature="e#8102#8335#0" />
+            <element signature="e#8183#8247#0" />
+            <element signature="e#8277#8327#0" />
+            <element signature="e#8468#9363#0" />
+            <element signature="e#8599#8729#0" />
+            <element signature="e#8609#8716#0" />
+            <element signature="e#8766#9072#0" />
+            <element signature="e#8814#9045#0" />
+            <element signature="e#9078#9197#0" />
+            <element signature="e#9290#9343#0" />
+            <element signature="e#9462#9682#0" />
+            <element signature="e#9469#9680#0" />
+            <element signature="e#9527#9615#0" />
+            <element signature="e#9549#9591#0" />
+            <element signature="e#9641#9677#0" />
+            <element signature="e#9715#9880#0" />
+            <element signature="e#9836#9854#0" />
+            <element signature="e#9974#10489#0" />
+            <element signature="e#9977#10058#0" />
+            <element signature="e#9987#10009#0" />
+            <element signature="e#10011#10035#0" />
+            <element signature="e#10131#10144#0" />
+            <element signature="e#10246#10398#0" />
+            <element signature="e#10262#10395#0" />
+            <element signature="e#10456#10487#0" />
+            <element signature="e#10491#10563#0" />
+            <element signature="e#10641#11499#0" />
+            <element signature="e#10710#11497#0" />
+            <element signature="e#10816#11074#0" />
+            <element signature="e#10875#10894#0" />
+            <element signature="e#10999#11018#0" />
+            <element signature="e#11093#11110#0" />
+            <element signature="e#11334#11458#0" />
+            <element signature="e#11359#11378#0" />
+            <element signature="e#11598#12124#0" />
+            <element signature="e#11734#11768#0" />
+            <element signature="e#11846#11880#0" />
+            <element signature="e#11927#11962#0" />
+            <element signature="e#11998#12102#0" />
+            <element signature="e#12176#12888#0" />
+            <element signature="e#12192#12362#0" />
+            <element signature="e#12278#12297#0" />
+            <element signature="e#12371#12886#0" />
+            <element signature="e#12420#12486#0" />
+            <element signature="e#12461#12482#0" />
+            <element signature="e#12492#12766#0" />
+            <element signature="e#12501#12762#0" />
+            <element signature="e#12552#12730#0" />
+            <element signature="e#12595#12620#0" />
+            <element signature="e#12676#12713#0" />
+            <element signature="e#12770#12883#0" />
+            <element signature="e#12781#12826#0" />
+            <element signature="e#12829#12879#0" />
+            <element signature="e#13036#13398#0" />
+            <element signature="e#13161#13194#0" />
+            <element signature="e#13275#13298#0" />
+            <element signature="e#13533#14259#0" />
+            <element signature="e#13569#13673#0" />
+            <element signature="e#13753#13766#0" />
+            <element signature="e#13788#13898#0" />
+            <element signature="e#14112#14257#0" />
+            <element signature="e#14116#14160#0" />
+            <element signature="e#14261#14340#0" />
+            <element signature="e#14397#14717#0" />
+            <element signature="e#14404#14715#0" />
+            <element signature="e#14408#14482#0" />
+            <element signature="e#14453#14478#0" />
+            <element signature="e#14552#14696#0" />
+            <element signature="e#14584#14692#0" />
+            <element signature="e#14877#15433#0" />
+            <element signature="e#14884#15431#0" />
+            <element signature="e#14979#15058#0" />
+            <element signature="e#15016#15054#0" />
+            <element signature="e#15104#15258#0" />
+            <element signature="e#15195#15254#0" />
+            <element signature="e#15262#15428#0" />
+            <element signature="e#15318#15359#0" />
+            <element signature="e#15362#15387#0" />
+            <element signature="e#15390#15424#0" />
+            <element signature="e#15464#15528#0" />
+            <element signature="e#15510#15526#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/go/pkg/mod/go.etcd.io/etcd@v3.3.20+incompatible/clientv3/kv.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="421">
+          <caret line="37" column="4" selection-start-line="37" selection-start-column="4" selection-end-line="37" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4-etcd-grpclb/proto/simple.pb.go">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4-etcd-grpclb/proto/simple.proto">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/go/pkg/mod/github.com/coreos/etcd@v3.3.20+incompatible/clientv3/balancer/resolver/endpoint/endpoint.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="245">
+          <caret line="28" column="22" lean-forward="true" selection-start-line="28" selection-start-column="22" selection-end-line="28" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/go/pkg/mod/google.golang.org/grpc@v1.26.0/dialoptions.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1104">
+          <caret line="65" column="16" selection-start-line="65" selection-start-column="16" selection-end-line="65" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/go/pkg/mod/google.golang.org/grpc@v1.26.0/clientconn.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2484">
+          <caret line="138" column="14" selection-start-line="138" selection-start-column="14" selection-end-line="138" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3-etcd-service-discovery/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SECOND">
+          <first_editor relative-caret-position="207">
+            <caret line="9" column="38" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4-etcd-grpclb/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SECOND">
+          <first_editor relative-caret-position="2254">
+            <caret line="98" column="19" selection-start-line="98" selection-start-column="19" selection-end-line="98" selection-end-column="19" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4-etcd-grpclb/etcdv3/discovery.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="23" column="20" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4-etcd-grpclb/client/client.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="118">
+          <caret line="25" column="5" selection-start-line="25" selection-start-column="4" selection-end-line="25" selection-end-column="5" />
+          <folding>
+            <element signature="e#14#207#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5-etcd-grpclb-balancer/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SECOND">
+          <first_editor relative-caret-position="442">
+            <caret line="187" selection-start-line="187" selection-end-line="187" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.go" />
+    <entry file="file://$PROJECT_DIR$/5-etcd-grpclb-balancer/proto/simple.pb.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="693">
+          <caret line="151" column="4" selection-start-line="151" selection-start-column="4" selection-end-line="151" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/go/pkg/mod/google.golang.org/grpc@v1.26.0/resolver/resolver.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="234" column="4" selection-start-line="234" selection-start-column="4" selection-end-line="234" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/go/pkg/mod/google.golang.org/grpc@v1.26.0/balancer/balancer.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="443">
+          <caret line="106" column="1" selection-start-line="106" selection-end-line="106" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5-etcd-grpclb-balancer/balancer/weight/weight.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1426">
+          <caret line="62" column="27" selection-start-line="62" selection-start-column="27" selection-end-line="62" selection-end-column="27" />
+          <folding>
+            <element signature="e#16#229#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/go/pkg/mod/google.golang.org/grpc@v1.26.0/balancer/base/base.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1173">
+          <caret line="61" column="11" selection-start-line="61" selection-start-column="4" selection-end-line="61" selection-end-column="11" />
+          <folding>
+            <element signature="e#1319#1516#0" />
+            <element signature="e#1585#1717#0" />
+            <element signature="n#!!block;n#NewBalancerBuilder#0" />
+            <element signature="e#2510#2634#0" />
+            <element signature="n#!!block;n#NewBalancerBuilderWithConfig#0" />
+            <element signature="e#2854#2927#0" />
+            <element signature="n#!!block;n#NewBalancerBuilderV2#0" />
+            <element signature="e#3135#3214#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5-etcd-grpclb-balancer/server/server.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="22" column="33" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="33" />
+          <folding>
+            <element signature="e#14#171#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5-etcd-grpclb-balancer/etcdv3/register.go">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5-etcd-grpclb-balancer/proto/simple.proto">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5-etcd-grpclb-balancer/client/client.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="644">
+          <caret line="28" column="8" selection-start-line="28" selection-start-column="4" selection-end-line="28" selection-end-column="8" />
+          <folding>
+            <element signature="e#14#225#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2-etcd-go-client/example_kv_test.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="28" column="25" selection-start-line="28" selection-start-column="25" selection-end-line="28" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1-etcd环境安装与使用/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SECOND">
+          <first_editor relative-caret-position="7383">
+            <caret line="321" column="98" selection-start-line="321" selection-start-column="96" selection-end-line="321" selection-end-column="98" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2-etcd-go-client/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SECOND">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2-etcd-go-client/example_test.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="644">
+          <caret line="38" column="24" selection-start-line="38" selection-start-column="16" selection-end-line="38" selection-end-column="24" />
+          <folding>
+            <element signature="e#617#770#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3-etcd-service-discovery/discovery/discovery.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2070">
+          <caret line="98" column="30" selection-start-line="98" selection-start-column="30" selection-end-line="98" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3-etcd-service-discovery/register/register.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="26" column="19" selection-start-line="26" selection-start-column="19" selection-end-line="26" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2-etcd-go-client/example_watch_test.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1610">
+          <caret line="76" column="48" selection-start-line="76" selection-start-column="44" selection-end-line="76" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4-etcd-grpclb/server/server.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="713">
+          <caret line="40" column="34" selection-start-line="40" selection-start-column="34" selection-end-line="40" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4-etcd-grpclb/etcdv3/register.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5-etcd-grpclb-balancer/etcdv3/discovery.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="28" column="34" selection-start-line="28" selection-start-column="25" selection-end-line="28" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SECOND">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

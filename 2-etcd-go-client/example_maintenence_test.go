@@ -39,6 +39,7 @@ func ExampleMaintenance_status() {
 		}
 		fmt.Printf("endpoint: %s / Leader: %v\n", ep, resp.Header.MemberId == resp.Leader)
 	}
+	//output:
 	// endpoint: localhost:2379 / Leader: false
 	// endpoint: localhost:22379 / Leader: false
 	// endpoint: localhost:32379 / Leader: true
@@ -59,4 +60,6 @@ func ExampleMaintenance_defragment() {
 			log.Fatal(err)
 		}
 	}
+	//output:
+	//
 }

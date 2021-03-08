@@ -38,7 +38,10 @@ func ExampleWatcher_watch() {
 			fmt.Printf("%s %q : %q\n", ev.Type, ev.Kv.Key, ev.Kv.Value)
 		}
 	}
+	//output:
+	//
 	// PUT "foo" : "bar"
+
 }
 
 func ExampleWatcher_watchWithPrefix() {
@@ -77,9 +80,13 @@ func ExampleWatcher_watchWithRange() {
 			fmt.Printf("%s %q : %q\n", ev.Type, ev.Kv.Key, ev.Kv.Value)
 		}
 	}
+	//output:
+	//
 	// PUT "foo1" : "bar"
 	// PUT "foo2" : "bar"
 	// PUT "foo3" : "bar"
+
+
 }
 
 func ExampleWatcher_watchWithProgressNotify() {

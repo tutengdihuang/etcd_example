@@ -18,6 +18,7 @@ import (
 	"context"
 	"fmt"
 	"log"
+	"time"
 
 	"github.com/coreos/etcd/clientv3"
 )
@@ -43,6 +44,21 @@ func ExampleLease_grant() {
 	if err != nil {
 		log.Fatal(err)
 	}
+
+	// Get the "foo" value
+	time.Sleep(6*time.Second)
+	ctx, cancel := context.WithTimeout(context.Background(), requestTimeout)
+	resps,err:=cli.Get(ctx,"foo")
+	cancel()
+	if err != nil {
+		log.Fatal(err)
+	}
+	for _, ev := range resps.Kvs {
+		fmt.Printf("%s : %s\n", ev.Key, ev.Value)
+	}
+
+	//output:
+	//
 }
 
 func ExampleLease_revoke() {

@@ -49,6 +49,8 @@ func Example() {
 	if err != nil {
 		log.Fatal(err)
 	}
+	//output:
+	//
 }
 
 func ExampleConfig_withTLS() {
@@ -75,4 +77,6 @@ func ExampleConfig_withTLS() {
 	if err != nil {
 		log.Fatal(err)
 	}
+	//output:
+	//
 }
