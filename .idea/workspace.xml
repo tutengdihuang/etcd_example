@@ -339,6 +339,7 @@
       <change beforePath="$PROJECT_DIR$/../ForTest/test11/03coverage_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/../ForTest/test11/03coverage_test.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ForTest/test11/04monitor.go" beforeDir="false" afterPath="$PROJECT_DIR$/../ForTest/test11/04monitor.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ForTest/validatorTest/backup.go" beforeDir="false" afterPath="$PROJECT_DIR$/../ForTest/validatorTest/backup.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../github.com/shopspring/decimal/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../github.com/shopspring/decimal/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../github.com/shopspring/decimal/decimal-go.go" beforeDir="false" afterPath="$PROJECT_DIR$/../github.com/shopspring/decimal/decimal-go.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../trading-system" beforeDir="false" afterPath="$PROJECT_DIR$/../trading-system" afterDir="false" />
@@ -500,7 +501,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+  <component name="ProjectFrameBounds" fullScreen="true">
     <option name="width" value="1440" />
     <option name="height" value="900" />
   </component>
